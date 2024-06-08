@@ -1,13 +1,10 @@
 # Table of contents
 
-* [Page](README.md)
-  * [Page 4](page/page-4.md)
+## Welcome to the Magical World of PeFi !
 
-## Group 1
-
-* [Page 1](group-1/page-1.md)
-* [Page 3](group-1/page-3.md)
-* [Page 2](group-1/page-2.md)
+* [Page 1](README.md)
+* [Page 3](welcome-to-the-magical-world-of-pefi/page-3.md)
+* [Page 2](welcome-to-the-magical-world-of-pefi/page-2.md)
 
 ***
 
