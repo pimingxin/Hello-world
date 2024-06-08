@@ -2,16 +2,12 @@
 
 ## Welcome to the Magical World of PeFi !
 
-* [Page 1](README.md)
-* [Page 3](welcome-to-the-magical-world-of-pefi/page-3.md)
-* [Page 2](welcome-to-the-magical-world-of-pefi/page-2.md)
+* [Welcome to the Magical World of PeFi !Welcome to the Magical World of PeFi !](README.md)
+* [About the PeFi](welcome-to-the-magical-world-of-pefi/about-the-pefi.md)
+* [How To Enter Pefi](welcome-to-the-magical-world-of-pefi/how-to-enter-pefi.md)
+* [Social media](welcome-to-the-magical-world-of-pefi/social-media.md)
 
-***
+## Home Page
 
-* [niemamadi](https://www.baidu.com)
-* [Page 5](page-5.md)
-
-## Group 2
-
-* [Page 6](group-2/page-6.md)
-* [Page 7](group-2/page-7.md)
+* [Home page information display](home-page/home-page-information-display.md)
+* [Card Store](home-page/card-store.md)
