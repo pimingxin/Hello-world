@@ -40,8 +40,7 @@ Launch more diverse token staking pools      &#x20;
 
 Launch collaborative special card packs       &#x20;
 
-Listed on CMC/Coingecko          \
-
+Listed on CMC/Coingecko         &#x20;
 
 September     &#x20;
 
