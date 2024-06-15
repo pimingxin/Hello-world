@@ -19,10 +19,18 @@ Mining income and card book total power.
 
 * Each card of different quality has its’ corresponding experience numbers, and the experience is used to upgrade the card slot. Card Slot Level Bonus situation is as follows:
 
-![](https://lh7-us.googleusercontent.com/docsz/AD\_4nXdsXh65FgVIqwiaHev6pLgpAUqWARsO8WuIVHXJj\_whZwG4KfiP\_nS8AVXL0UwK\_EkkiaeFwdk8FNTQx446R5EiJ-mZ5fW3Xb3LQna0uNx\_ck51EKLbwgkyTwdpGqDJBPs5tFAsrsMlxn1yPiqOJ-12VJMq?key=qdtuNPyKJUVo8xyoYzDU0A)
+<div align="left">
+
+<figure><img src="../.gitbook/assets/2024-06-15 14.34.05.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 * Cards Amount Bonus: when the number of cards placed in a card book reaches a certain amount, the corresponding total power bonus will be achieved.
 
-![](https://lh7-us.googleusercontent.com/docsz/AD\_4nXcDO7-OlkxG9tJicnyILXpyshr6mq0e3a4ZuCZk1VXq14mkz2YmbchBb2rJO104-2Pf2w5dSyJAjuxGzcfJ4Hrpjfn3xmij4KkMrqonnEA0vz2NYJCq8TmeIlQV5TnkFbzGVCiHu0dnjzb0kds8ePKlXDpz?key=qdtuNPyKJUVo8xyoYzDU0A)
+<div align="left">
+
+<figure><img src="../.gitbook/assets/画板 1 拷贝 2 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 \
