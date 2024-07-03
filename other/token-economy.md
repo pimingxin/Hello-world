@@ -37,8 +37,8 @@ Granted for ecological construction, PEFI token holders vote to determine usage.
 
 **6、(12%) Team**
 
-* 1/12 TGE (released starting from the first launch);&#x20;
-* 12% will be released linearly for 12 months.
+* <mark style="color:green;">1/24</mark> TGE (released starting from the first launch);&#x20;
+* 12% will be released linearly for <mark style="color:green;">24</mark> months.
 
 
 
