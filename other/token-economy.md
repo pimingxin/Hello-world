@@ -4,7 +4,7 @@
 
 Max supply：20,000,000
 
-**1、 (7%) Liquidity**
+**1、 (**<mark style="color:green;">**9**</mark>**%) Liquidity**
 
 Used to issue nft, thus increasing PEFI liquidity.
 
@@ -12,7 +12,7 @@ Used to issue nft, thus increasing PEFI liquidity.
 
 Total of pre-sale card packs stakes.
 
-* Pre-sale Liquidity (1%)
+* Pre-sale Liquidity (<mark style="color:green;">2</mark>%)
 
 **2、(40%) NFT Card Collectibles Mining - Mining Cycle of 540 days**
 
@@ -32,13 +32,13 @@ Granted for ecological construction, PEFI token holders vote to determine usage.
 
 **5、(6%) Marketing**
 
-* Total of initial airdrop card packs stakes 0.7% (Total cards: 3,500)
-* Marketing/Operation/Business Development/Content/IP
+* Total of initial airdrop card packs stakes <mark style="color:green;">1</mark>%&#x20;
+* Marketing/Operation/Business Development/Content/IP&#x20;
 
-**6、(12%) Team**
+**6、(**<mark style="color:green;">**10**</mark>**%) Team**
 
 * <mark style="color:green;">1/24</mark> TGE (released starting from the first launch);&#x20;
-* 12% will be released linearly for <mark style="color:green;">24</mark> months.
+* <mark style="color:green;">10</mark>% will be released linearly for <mark style="color:green;">24</mark> months.
 
 
 
