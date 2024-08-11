@@ -44,7 +44,11 @@ Granted for ecological construction, PEFI token holders vote to determine usage.
 
 **Please search the token contract**
 
-PEFI contract(Basechain): coming soon
+<mark style="color:green;">PeFi Economic Token (PEFI) contract(Basechain): 0x7860805613b070E90c45bE5a33330142a9D2850B</mark>
+
+<mark style="color:green;">PeFi Army Card (PAC) contract: 0x38ba98Ada81a7671b683a7675A14a5b01c674Ff4</mark>
+
+
 
 PEFI in Uniswap v2: coming soon
 
