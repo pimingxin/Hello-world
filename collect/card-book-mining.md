@@ -42,12 +42,10 @@ Mining income and card book total power.
 
 </div>
 
-* Cards Amount Bonus: when the number of cards placed in a card book reaches a certain amount, the corresponding total power bonus will be achieved.
+* Cards Amount Bonus: when the number of cards placed in a card book reaches a certain amount, the corresponding total power bonus will be achieved. <mark style="color:green;">**Each additional 6 characters collected will increase the Cards Amount Bonus by 5%!**</mark>
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/画板 1 拷贝 2 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/telegram-cloud-document-5-6278536523625271079.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
-
-\

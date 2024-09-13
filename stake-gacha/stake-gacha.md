@@ -23,3 +23,9 @@ Tip: authorization is required before staking. Both staking and authorization ar
 * The card quality from high to low is: Red V 、 V Star 、IV Star 、III Star 、II Star、I Star
 * By staking a corresponding amount of PEFI individually, you can obtain an NFT card of that quality with a minimum guarantee, and there is also a certain chance of obtaining a higher-quality card. For example (the actual value will be subject to the actual launch): stake 80 PEFI, you will get V Star quality NFT cards, and there is a certain chance to get Red V quality.
 * Adjust the number of cards staked to get a corresponding number of card packs. Each card pack contains only 1 random card. The quality is based on the rate achieved by a PEFI quantity that is staked.&#x20;
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/telegram-cloud-document-5-6228868877569234359.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
