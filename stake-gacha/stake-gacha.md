@@ -26,6 +26,6 @@ Tip: authorization is required before staking. Both staking and authorization ar
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/telegram-cloud-document-5-6228868877569234359.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/PEFI-初始卡片 (11).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
