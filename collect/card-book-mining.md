@@ -4,7 +4,7 @@ After logging into the game, users will receive a card book containing a card sl
 
 
 
-![](https://lh7-us.googleusercontent.com/docsz/AD\_4nXctE7NVxT8-jssEYKhmrSR39bpgL-Xi-THHZ69Gwc4LXoKtvADp03rep5KoL4N05Ludswdmu6IaHkRbTA9iTvyJVNJusMx\_Fg5egySZTxoR-eMJWYIg2KbUp7nk2uSKF5DVeWOnq306DRG9SQiVlUAYWopL?key=qdtuNPyKJUVo8xyoYzDU0A)&#x20;
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXctE7NVxT8-jssEYKhmrSR39bpgL-Xi-THHZ69Gwc4LXoKtvADp03rep5KoL4N05Ludswdmu6IaHkRbTA9iTvyJVNJusMx_Fg5egySZTxoR-eMJWYIg2KbUp7nk2uSKF5DVeWOnq306DRG9SQiVlUAYWopL?key=qdtuNPyKJUVo8xyoYzDU0A)&#x20;
 
 Tip: Card collection is an on-chain process, which requires a certain amount of ETH as the gas fee.
 
@@ -18,7 +18,7 @@ Mining income and card book total power.
 
 * The card slot of the corresponding card can be used to upgrade. The upgraded card slot will have a growth of power. However, the card used to upgrade will be destroyed, and the PEFI of the card will be released gradually within 120 hours. And the released PEFI can be obtained in the card mining interface;
 
-![](https://lh7-us.googleusercontent.com/docsz/AD\_4nXfzF3nQnh\_B5XvkEISnGDjRBUBLsfOpgSTTOrdC2TvsTryA9nQHaKbiJ9eA3L7kzTuSNXuU619JgInKNyp6tNzu8HpADresiRa2MHj54XWxqWw8WUV68UGfrUUmz0sPOMn0O4chqiR6WgL2NHAEMe92elI4?key=qdtuNPyKJUVo8xyoYzDU0A)
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfzF3nQnh_B5XvkEISnGDjRBUBLsfOpgSTTOrdC2TvsTryA9nQHaKbiJ9eA3L7kzTuSNXuU619JgInKNyp6tNzu8HpADresiRa2MHj54XWxqWw8WUV68UGfrUUmz0sPOMn0O4chqiR6WgL2NHAEMe92elI4?key=qdtuNPyKJUVo8xyoYzDU0A)
 
 <mark style="color:green;">For example. Here in the card information, it says 80, which means that this card has 80 locked. Use this card to upgrade. You will gain experience, and the 80 tokens will be gradually released in 120 hours.</mark>&#x20;
 
@@ -36,16 +36,10 @@ Mining income and card book total power.
 
 * Card Slot Level Bonus situation is as follows. <mark style="color:green;">For example, I need to gain 300 experience to upgrade to level 2.</mark>
 
-<div align="left">
+<div align="left"><figure><img src="../.gitbook/assets/2024-06-15 14.34.05.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/2024-06-15 14.34.05.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/2025-02-10 16.19.25.jpg" alt=""><figcaption></figcaption></figure>
 
 * Cards Amount Bonus: when the number of cards placed in a card book reaches a certain amount, the corresponding total power bonus will be achieved. <mark style="color:green;">**Each additional 6 characters collected will increase the Cards Amount Bonus by 5%!**</mark>&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/画板 1 拷贝 2.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/画板 1 拷贝 2.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
